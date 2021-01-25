@@ -20,7 +20,7 @@ export default function Footer() {
         </button>
       </a>
       <p>
-        <a href=" " target="blank"> Open source code</a> by Charlotte Williams
+        <a href="https://github.com/Charl121/weather-react.git " target="blank"> Open source code</a> by Charlotte Williams
       </p>
     </div>
   );

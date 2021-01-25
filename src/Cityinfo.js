@@ -4,7 +4,7 @@ import "./Cityinfo.css";
 import Temperature from "./Temperature";
 import CelciusToFahrenheit from "./CelciusToFahrenheit";
 
-export default function () {
+export default function Cityinfo() {
   return (
     <div className="row" id="current-weather">
       <div className="header">
