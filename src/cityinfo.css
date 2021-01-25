@@ -1,0 +1,36 @@
+.h1,
+.h3,
+#current-temperature {
+  text-align: center;
+}
+#current-city {
+  font-size: 80px;
+  text-transform: capitalize;
+}
+#current-weather {
+  margin: 0 auto;
+  padding-top: 20px;
+  font-size: 55px;
+}
+
+.currentTemp {
+  font-size: 60px;
+  text-align: center;
+  margin-left: 5px;
+  color: white;
+}
+.fahrenheitLink {
+  color: white;
+}
+
+.detailedWeather {
+  list-style-type: none;
+  font-size: 20px;
+  padding-top: 20px;
+  margin-left: -300px;
+}
+
+#current-time {
+  padding-top: 40px;
+  margin-left: -100px;
+}

@@ -1,0 +1,40 @@
+.footer {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.linkedin,
+.fa-linkedin-in {
+  background-color: #0077b5;
+  color: white;
+  transition: all;
+}
+.fa-linkedin-in,
+.fa-instagram {
+  padding: 10px;
+  margin: 0;
+}
+.linkedin,
+.instagram {
+  padding: 1px;
+}
+.instagram,
+.fa-instagram {
+  background-color: white;
+  color: #adafa3;
+  transition: all;
+}
+.linkedin:hover,
+.fa-linkedin-in:hover {
+  background: white;
+  color: #0077b5;
+  cursor: pointer;
+  border: none #0077b5;
+}
+.instagram:hover,
+.fa-instagram:hover {
+  background: #adafa3;
+  color: white;
+  cursor: pointer;
+  border: none white;
+}

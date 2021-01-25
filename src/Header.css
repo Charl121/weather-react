@@ -1,0 +1,41 @@
+.Header {
+  padding-left: 150px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.h1,
+.h3,
+#current-temperature {
+  text-align: center;
+}
+.Header #current-city {
+  font-size: 80px;
+  text-transform: capitalize;
+}
+#current-weather {
+  margin: 0 auto;
+  padding-top: 20px;
+  font-size: 55px;
+}
+
+#buttons {
+  padding-top: 100px;
+}
+#current-city-button {
+  margin: 25px 0;
+  padding: 7px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #f8c96c;
+  border: solid 0.5px;
+}
+
+#current-temp {
+  padding-top: 20px;
+  font-size: 50px;
+}
+
+.weather-illustration {
+  padding-top: 5px;
+}

@@ -1,0 +1,13 @@
+.currentLocationButton {
+  margin: 25px 0;
+  padding: 7px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #f8c96c;
+  border: solid 0.5px;
+}
+
+#current-city-button:hover {
+  color: #f8c96c;
+  background-color: #ffffff;
+}

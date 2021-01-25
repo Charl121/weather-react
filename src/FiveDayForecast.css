@@ -1,0 +1,22 @@
+.fiveDayForecast {
+  font-size: 25px;
+  list-style: none;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.input-group,
+.mb-3 {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.dayList {
+  list-style-type: none;
+  margin-left: 70px;
+}
+
+.weatherForecast {
+  margin: 0;
+  text-align: center;
+}
