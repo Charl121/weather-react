@@ -19,6 +19,9 @@ export default function Footer() {
           <i className="fab fa-instagram"></i>
         </button>
       </a>
+      <p>
+        <a href=" " target="blank"> Open source code</a> by Charlotte Williams
+      </p>
     </div>
   );
 }
